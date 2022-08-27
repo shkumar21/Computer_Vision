@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 20 23:47:01 2021
 
-@author: Arman
+@author: Shailesh
 """
 imagenette_map = { 
     "n01440764" : "tench",
